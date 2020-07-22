@@ -1,2 +1,2 @@
-# python-engineio3-waitress-plugin
-Add Waitress support to python-engineio 3
+# python-engineio3-asyncio-driver
+Add Python 3 asyncio support to python-engineio 3
